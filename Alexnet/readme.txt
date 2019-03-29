@@ -1,0 +1,1 @@
+类似AlexNet的神经网络，因为电脑配置及MNIST数据集图片尺寸问题，将Kernel_size和stride都改小了
